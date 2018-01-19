@@ -8,7 +8,3 @@ $ cd skiing
 
 # Run the Program
 node ./index.js
-
-# If any issues - Please do below
-$ npm install
-$ Then run the Program
